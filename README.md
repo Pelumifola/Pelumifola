@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Pelumifola
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Python
+- A graduate of Anatomy
+- 👀 Aspiring Backend developer
+- 🌱 I’m currently learning Python @ Udemy
+- currently on #100DaysOfCode
 
 
 <!---
